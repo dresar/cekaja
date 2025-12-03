@@ -1,0 +1,5 @@
+{
+  "name": "Portofolio Interaktif AI",
+  "description": "Sebuah portofolio web modern dan futuristik yang dibuat dengan React, TypeScript, dan Tailwind CSS. Konten proyek dikelola secara dinamis menggunakan Gemini API.",
+  "requestFramePermissions": []
+}
